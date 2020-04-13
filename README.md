@@ -16,6 +16,3 @@ rutine to compare with the original data.
 
 # Maintainers - Authors
 Rovegrod - roberto_vr@outlook.com
-
-# License
-I don't give a fuck, feel free to use this code
