@@ -1,4 +1,4 @@
-## GeoJson Comparator
+# GeoJson Comparator
 
 # Installation
 I recommend using Pipenv in order to execute this code. 
@@ -15,7 +15,7 @@ To use `geojson_comparator.py` you only have to change the PATH to your GeoJSON 
 rutine to compare with the original data. 
 
 # Maintainers - Authors
-Rovegrod - roberto.vega@students.salle.url.edu
+Rovegrod - roberto_vr@outlook.com
 
 # License
 I don't give a fuck, feel free to use this code
