@@ -1,4 +1,3 @@
-# GeoJson Comparator
 
 # Installation
 I recommend using Pipenv in order to execute this code. 
